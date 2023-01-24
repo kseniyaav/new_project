@@ -1,7 +1,4 @@
 def make_capital_letters():
-    '''
-    Функция принимает на вход строку и возвращает её, со всеми заглавными буквами
-    '''
     s = input("Введите текст ")
     print(s.upper())
 
@@ -15,4 +12,6 @@ def make_first_letter_capital():
     s = input("Введите текст ")
     print(s.title())
 make_first_letter_capital()
+
+
 
