@@ -15,3 +15,4 @@ def make_first_letter_capital():
     s = input("Введите текст ")
     print(s.title())
 make_first_letter_capital()
+
